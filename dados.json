@@ -1,0 +1,51 @@
+{
+    "produtos": [
+        {
+            "imagem": "./public/images/playstation5.png",
+            "nome": "Console Sony Playstation 5",
+            "preco": 3950.00,
+            "installment_amount": 12,
+            "installment_value": 330.00
+        },
+        {
+            "imagem": "./public/images/seriess.png",
+            "nome": "Console Xbox Series S",
+            "preco": 1899.00,
+            "installment_amount": 12,
+            "installment_value": 158.00
+        },
+        {
+            "imagem": "./public/images/nintendoswitch.png",
+            "nome": "Nintendo Switch: Zelda Edition",
+            "preco": 2600.00,
+            "installment_amount": 12,
+            "installment_value": 216.00
+        },
+        {
+            "imagem": "./public/images/g502.png",
+            "nome": "Logitech G502 K/DA Edition",
+            "preco": 369.40,
+            "installment_amount": 4,
+            "installment_value": 92.25
+        },
+        {
+            "imagem": "./public/images/g923.png",
+            "nome": "Volante Logitech G923",
+            "preco": 2549.99,
+            "installment_amount": 12,
+            "installment_value": 212.50
+        },
+        {
+            "imagem": "./public/images/amiibo.png",
+            "nome": "Amiibo: Link TOZ",
+            "preco": 347.00,
+            "installment_amount": 12,
+            "installment_value": 86.75
+        }
+    ]
+
+
+
+
+
+}
