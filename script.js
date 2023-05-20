@@ -1,4 +1,4 @@
-fetch('./src/dados.json')
+fetch('./dados.json')
   .then(response => response.json())
   .then(data => {
     const slider = document.getElementById('slider');
